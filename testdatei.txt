@@ -1,4 +1,3 @@
 Hallo!
 
-Dies ist eine schöne Testdatei
-Test
+Dies ist eine tolle Testdatei
